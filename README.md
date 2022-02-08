@@ -4,24 +4,27 @@ Provides a Scripting Environment for DCS for use in VS Code. This incudes Intell
 ![DSE Demo](https://cdn.discordapp.com/attachments/780381707794513931/940321528120238131/code2.gif)
 
 ## Features
-- Intellisense
-- Auto code completion
-- Links to documentation
-- Singletons
-  - env
-  - timer
-  - land
-  - atmosphere
-  - world
-  - coalition
-  - trigger
-  - coord
-  - missionCommands
-  - VoiceChat
-  - net
-  
+- [X] Intellisense
+- [X] Auto Code Completion
+- [X] Links to Documentation
+- [X] Singletons
+  - [X] env
+  - [X] timer
+  - [X] land
+  - [X] atmosphere
+  - [X] world
+  - [X] coalition
+  - [X] trigger
+  - [X] coord
+  - [X] missionCommands
+  - [X] VoiceChat
+  - [X] net
+- [ ] Classes
+- [ ] Enumerators
+- [ ] Lists
+
 ## Instructions
-  - Download and install VS Code https://code.visualstudio.com/download
+  - Download and install VS Code. https://code.visualstudio.com/download
   - Download the Lua Language Server by sumneko using the VS Code Extention feature.
   - Downlad the git. Install the folders so that it looks like the following:
     - `C:\Users\ProfileName\.vscode\extensions\sumneko.lua-2.6.3\server\meta\3rd\DCS-Scripting-Environment`
@@ -33,7 +36,7 @@ Provides a Scripting Environment for DCS for use in VS Code. This incudes Intell
   - Within the file type `DSE.start` and press enter. (You can type this within a `--comment` if you like.
   - Within a few seconds you should seen an Environment popup on the lower right corder of VS Code. Accept.
   - Start typing `atmosphere` and you should see suggestions.
-  - All done! Remember to always use a saved `.lua` file and to start the DCS Scripting Environment by typing `DSE.start`.
+  - All done! Remember to always use a saved `.lua` file and to start the DCS Scripting Environment by having `DSE.start` somewhere in the file.
 
 ## Bonus
 You can add other libraries or environments such as MIST or DCT by putting the .lua file in your Workspace: User Third Party library folder, for example: `C:\Users\ProfileName\.vscode\extensions\sumneko.lua-2.6.3\server\meta\3rd\DCS-Scripting-Environment\library`

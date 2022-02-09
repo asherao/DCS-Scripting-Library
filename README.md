@@ -7,7 +7,7 @@ Provides a Scripting Environment for DCS for use in VS Code. This incudes Intell
 - [X] Intellisense
 - [X] Auto Code Completion
 - [X] Links to Documentation
-- [X] Singletons
+- [X] Singleton Functions
   - [X] env
   - [X] timer
   - [X] land
@@ -19,9 +19,21 @@ Provides a Scripting Environment for DCS for use in VS Code. This incudes Intell
   - [X] missionCommands
   - [X] VoiceChat
   - [X] net
-- [ ] Classes
+- [X] Class Functions
+  - [X] Object
+    - [X] Scenery Object
+    - [X] Coalition Object
+      - [X] Unit
+      - [X] Airbase
+      - [X] Weapon
+      - [X] Static Object
+  - [X] Group
+  - [X] Controller
+  - [X] Spot
 - [ ] Enumerators
-- [ ] Lists
+- [ ] Server Functions
+- [ ] AI Tasks
+- [ ] Events
 
 ## Instructions
   - Download and install VS Code. https://code.visualstudio.com/download

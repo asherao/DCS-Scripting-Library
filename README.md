@@ -43,8 +43,8 @@ Provides a Scripting Environment for DCS for use in VS Code. This incudes Intell
   - In the Lua Language Server by sumneko Extention settings scroll down near the bottom where it says "Lua > Workspace: Library".
   - Click "Add Item" and insert the folder path from above.
     - Example: `F:\Github\DCS-Scripting-Environment-main`
+      - ![image](https://user-images.githubusercontent.com/15984377/153266634-bff2dee5-d843-4dc1-93d3-387845cf4bca.png)
   - Open a new lua file.
-  - Within a few seconds you may an Environment popup on the lower right corder of VS Code. Accept.
   - Start typing `atmosphere` and you should see suggestions.
   - All done!
 

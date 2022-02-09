@@ -1,7 +1,7 @@
 # DCS-Scripting-Environment
 Provides a Scripting Environment for DCS for use in VS Code. This incudes Intellisense and auto code completion. You have the option to add other Environment by simply drag and droping the `.lua` file into the directory. What's unique about it is that you don't have to have other windows open or be imbeded in a project to access the features it provides.
 
-![DSE Demo](https://cdn.discordapp.com/attachments/780381707794513931/940321528120238131/code2.gif)
+![DSE Demo](https://cdn.discordapp.com/attachments/780381707794513931/941046816890294322/code3.gif)
 
 ## Features
 - [X] Intellisense

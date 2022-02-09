@@ -49,7 +49,7 @@ Provides a Scripting Environment for DCS for use in VS Code. This incudes Intell
   - All done!
 
 ## Bonus
-You can add other libraries or environments such as MIST or DCT by putting the .lua file in your "Lua > Workspace: Library" folder.
+You can add other libraries such as MIST, DCT, or CTLD by putting the .lua file in a "Lua > Workspace: Library" folder and then designating that folder as a library.
 
 ## Acknowledgements
 - Grimes via https://wiki.hoggitworld.com/view/Simulator_Scripting_Engine_Documentation

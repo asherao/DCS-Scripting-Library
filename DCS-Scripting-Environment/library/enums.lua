@@ -101,3 +101,17 @@ attributes.net.get_stat = {
 	["net.PS_LAND"] 	= "number of landings",
 	["net.PS_EJECT"] 	= "of ejects",
 }
+
+enum.Controller.Detection = {
+	["VISUAL"] 	=  1,
+	["OPTIC"] 	=  2,
+	["RADAR"] 	=  4,
+	["IRST"] 	=  8,
+	["RWR"] 	=  16,
+	["DLINK"]	=  32
+}
+
+enum.Spot.Category = {
+	"INFRA_RED",
+	"LASER"
+  }

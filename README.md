@@ -44,7 +44,6 @@ Provides a baseline Scripting Library for DCS for use in VS Code. This incudes I
   - Click "Add Item" and insert the folder path from above.
     - Example: `F:\Github\DCS-Scripting-Library-main`
       - ![image](https://user-images.githubusercontent.com/15984377/153274138-bdf52481-42d3-483c-b6b6-9fe32e78232a.png)
-
   - Open a new lua file.
   - Start typing `atmosphere` and you should see suggestions.
   - All done!
